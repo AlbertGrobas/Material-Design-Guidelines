@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--http://www.google.com/design/spec/style/icons.html#icons-system-icons-->
+
+    <color name="divider_light">#1F000000</color>
+    <color name="icon_active_light">#84000000</color>
+    <color name="icon_inactive_light">#42000000</color>
+
+    <color name="divider_dark">#1FFFFFFF</color>
+    <color name="icon_active_dark">#FFFFFF</color>
+    <color name="icon_inactive_dark">#4DFFFFFF</color>
+
+</resources>

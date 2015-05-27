@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--http://www.google.com/design/spec/style/typography.html#typography-styles-->
+
+    <dimen name="text_title">@dimen/text_title_dense</dimen>
+    <dimen name="text_subhead">@dimen/text_subhead_dense</dimen>
+    <dimen name="text_body2">@dimen/text_body2_dense</dimen>
+    <dimen name="text_body1">@dimen/text_body1_dense</dimen>
+    <dimen name="text_caption">@dimen/text_caption_dense</dimen>
+    <dimen name="text_button">@dimen/text_button_dense</dimen>
+
+    <dimen name="text_display2_leading">@dimen/text_display2_leading_dense_tall</dimen>
+    <dimen name="text_display1_leading">@dimen/text_display1_leading_dense_tall</dimen>
+    <dimen name="text_headline_leading">@dimen/text_headline_leading_dense_tall</dimen>
+    <dimen name="text_subhead2_leading">@dimen/text_subhead2_leading_dense_tall</dimen>
+    <dimen name="text_subhead1_leading">@dimen/text_subhead1_leading_dense_tall</dimen>
+    <dimen name="text_body2_leading">@dimen/text_body2_leading_dense_tall</dimen>
+    <dimen name="text_body1_leading">@dimen/text_body1_leading_dense_tall</dimen>
+
+</resources>

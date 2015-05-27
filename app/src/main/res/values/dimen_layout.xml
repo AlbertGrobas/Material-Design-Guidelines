@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Elevation -->
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="elevation_floating_action_button">6dp</dimen>
+    <dimen name="elevation_floating_action_button_pressed">12dp</dimen>
+    <dimen name="elevation_card">2dp</dimen>
+    <dimen name="elevation_card_pressed">8dp</dimen>
+    <dimen name="elevation_default">2dp</dimen>
+    <dimen name="elevation_default_pressed">8dp</dimen>
+
+    <!-- Space: padding or margin -->
+    <dimen name="space_list_item_start">16dp</dimen>
+    <dimen name="space_list_item_end">16dp</dimen>
+    <dimen name="space_list_item_start2">72dp</dimen>
+    <dimen name="space_list_item_end2">32p</dimen>
+    <dimen name="space_list_between_content">8dp</dimen>
+    <dimen name="space_list_text_bottom">20dp</dimen>
+    <dimen name="space_list_top">8dp</dimen>
+    <dimen name="space_list_button_action">16dp</dimen>
+
+    <dimen name="space_detail_start">16dp</dimen>
+    <dimen name="space_detail_end">16dp</dimen>
+    <dimen name="space_detail_start2">72dp</dimen>
+    <dimen name="space_detail_end2">32p</dimen>
+    <dimen name="space_detail_between_content">8dp</dimen>
+
+    <dimen name="space_navdrawer_start">16dp</dimen>
+    <dimen name="space_navdrawer_start2">72dp</dimen>
+    <dimen name="space_navdrawer_end">16dp</dimen>
+    <dimen name="space_navdrawer_between_content">8dp</dimen>
+
+    <dimen name="space_toolbar_icon_start">16dp</dimen>
+    <dimen name="space_toolbar_icon_end">16dp</dimen>
+    <dimen name="space_toolbar_text_start">72dp</dimen>
+
+    <dimen name="space_card_title_top">24dp</dimen>
+    <dimen name="space_card_title_bottom">16dp</dimen>
+    <dimen name="space_card_start">16dp</dimen>
+    <dimen name="space_card_end">16dp</dimen>
+    <dimen name="space_card_main_bottom">24dp</dimen>
+    <dimen name="space_card_action">8dp</dimen>
+
+    <dimen name="space_grid_divider">1dp</dimen>
+    <dimen name="space_grid_divider2">4dp</dimen>
+    <dimen name="space_grid_footer">16dp</dimen>
+    <dimen name="space_grid_header">16dp</dimen>
+
+    <!-- General metrics -->
+    <dimen name="list_item_icon">40dp</dimen>
+    <dimen name="list_item_default_height">72dp</dimen>
+    <dimen name="list_item_single_line_height">48dp</dimen>
+    <dimen name="list_item_two_line_height">72dp</dimen>
+    <dimen name="list_item_three_line_height">88dp</dimen>
+    <dimen name="list_header_height">72dp</dimen>
+    <dimen name="list_subhead_height">48dp</dimen>
+
+    <dimen name="detail_item_height">72dp</dimen>
+    <dimen name="detail_header_height">48dp</dimen>
+
+    <dimen name="navdrawer_item_height">48dp</dimen>
+    <dimen name="navdrawer_max_width">320dp</dimen>
+
+    <dimen name="card_rounded_corners">2dp</dimen>
+    <dimen name="card_item_height">72dp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+
+    <dimen name="grid_single_line_height">48dp</dimen>
+    <dimen name="grid_two_line_height">64dp</dimen>
+    <dimen name="grid_subhead_height">48dp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_subhead_height">72dp</dimen>
+    <dimen name="floating_action_button">56dp</dimen>
+
+    <!-- System metrics -->
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="navigation_bar_height">48dp</dimen>
+
+</resources>

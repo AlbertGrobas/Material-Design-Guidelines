@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--http://www.google.com/design/spec/style/color.html#color-ui-color-application-->
+
+    <color name="text_primary_light">#DE000000</color>
+    <color name="text_secondary_light">#8A000000</color>
+    <color name="text_hint_light">#42000000</color>
+    <color name="text_disable_light">#42000000</color>
+
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#B3FFFFFF</color>
+    <color name="text_hint_dark">#4DFFFFFF</color>
+    <color name="text_disable_dark">#4DFFFFFF</color>
+
+</resources>
